@@ -114,6 +114,7 @@ MAIN
 .preview-card__image {
   overflow: hidden;
   aspect-ratio: 327/200;
+  border-radius: 10px 0 0 10px;
 }
 .preview-card__image img {
   inline-size: 100%;
