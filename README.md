@@ -1,4 +1,4 @@
-![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-4BC0F0?logo=frontendmentor&logoColor=white) ![#10](https://img.shields.io/badge/%2310-red) [![Live Preview](https://img.shields.io/badge/Live-Preview-green)]()
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-4BC0F0?logo=frontendmentor&logoColor=white) ![#10](https://img.shields.io/badge/%2310-red) [![Live Preview](https://img.shields.io/badge/Live-Preview-green)](https://svitlanarudova.github.io/article-preview-component/)
 
 # Frontend Mentor - Article preview component
 ![Design preview for the Meet landing page](./preview.jpg)
