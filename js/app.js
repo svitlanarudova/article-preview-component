@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
-  let shareLink = document.querySelector(".preview-card__share-links");
-  let shareButton = document.querySelector(".area-user__share-icon");
+  const shareLink = document.querySelector(".preview-card__share-links");
+  const shareButton = document.querySelector(".area-user__share-icon");
   if (!shareLink || !shareButton) {
     return;
   }
